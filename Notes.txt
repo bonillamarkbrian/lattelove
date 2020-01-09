@@ -1,0 +1,21 @@
+What's new in this version: v1.01
+
+-Added icon logo in title bar using HTML
+-CDN has been removed. FontAwesome, Jquery, Bootstrap and Popper JS installed inside the local assets folder.
+-Contact Us page has been updated (removed bgcolor to have consistent theme).
+-Added About Us page
+-Added in the index additional section
+-Corrected links assignment
+
+
+Added version v1.02
+
+-Change color logo LatteLove to brown
+-Added hover css
+-Fixed container carousel in the index page. Create seperate css for testimonials to make sure it has smaller size.
+-Fix stars under Products page.
+
+
+
+
+
